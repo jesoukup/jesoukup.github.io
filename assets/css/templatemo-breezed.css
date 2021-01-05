@@ -1434,7 +1434,7 @@ contact
 }
 
 #contact-us {
-    padding: 120px 0px;
+    padding: 0px 0px;
     background-position: center center;
     background-repeat: no-repeat;
 }
@@ -1819,6 +1819,10 @@ portfolio
 
 #projects .section-heading {
     margin-bottom: 60px;
+}
+
+#projects .section-heading h4 {
+    color: red;
 }
 
 #projects .section-heading h6 {
