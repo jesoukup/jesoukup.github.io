@@ -530,7 +530,7 @@ header
 
 .header-area .main-nav .nav li.submenu {
     position: relative;
-    padding-right: 35px;
+    padding-right: 5px;
 }
 
 .header-area .main-nav .nav li.submenu:after {
