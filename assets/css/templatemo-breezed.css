@@ -239,7 +239,7 @@ a.main-stroked-button {
 
 a.main-stroked-button:hover {
     background-color: #fff;
-    color: #5fb759;
+    color: black;
 }
 
 a.main-filled-button {
@@ -248,7 +248,7 @@ a.main-filled-button {
     padding: 13px 25px;
     background-color: #fff;
     text-transform: uppercase;
-    color: #5fb759;
+    color: black;
     font-weight: 600;
     letter-spacing: 1px;
     -webkit-transition: all 0.3s ease 0s;
@@ -259,7 +259,7 @@ a.main-filled-button {
 
 a.main-filled-button:hover {
     color: #fff;
-    background-color: #5fb759;
+    background-color: black;
 }
 
 a.main-button-icon {
@@ -951,7 +951,7 @@ banner
 
 .scroll-down a {
     display: inline-block;
-    background-color: #5fb759;
+    background-color: black;
     width: 60px;
     height: 60px;
     text-align: center;
@@ -1415,7 +1415,7 @@ contact
 }
 
 #contact-us .section-heading h6 {
-    color: #5fb759;
+    color: black;
 }
 
 #contact-us .left-text-content ul li {
@@ -1526,7 +1526,7 @@ footer .right-text-content ul li a {
     font-size: 14px;
     background-color: #fff;
     border-radius: 50%;
-    color: #5fb759;
+    color: black;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
@@ -1534,7 +1534,7 @@ footer .right-text-content ul li a {
 }
 
 footer .right-text-content ul li a:hover {
-    background-color: #5fb759;
+    background-color: black;
     color: #fff;
 }
 
